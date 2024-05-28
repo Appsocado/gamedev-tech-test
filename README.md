@@ -11,7 +11,7 @@ Para esta prueba el juego debe tener un número de rondas que puede ser configur
 En cada ronda, entre los cofres que deben ser instanciados, debe haber uno que esté vacío, exceptuando la primera ronda. Si el jugador abre un cofre vacío, el premio acumulado debe de posicionarse en 0 y el minijuego terminar, se le desplegará al jugador un mensaje informando que ha perdido. En este punto el juego habrá terminado y debe de desplegarse un menú o una opción para volver a intentarlo.
 
 # Premio acumulado y finalización del juego
-Por cada cofre que el jugador abra y no sea un cofre vacío, el premio en monedas que contiene el cofre debe ser acumulado en un premio acumulado. El objetivo del jugador será escoger un cofre al azar en cada ronda, esperando que ese cofre no este vacío, una vez el jugador logre completar todas las rondas, se desplegará un mensaje informando cuál fue el premio total acumulado durante todas las rondas y un mensaje de felicitaciones. En este punto el juego habrá terminado y debe de desplegarse un menú o una opción para volver a intentarlo.
+Por cada cofre que el jugador abra y no sea un cofre vacío, el premio en monedas que contiene el cofre debe ser acumulado en un premio acumulado. El objetivo del jugador será escoger un cofre al azar en cada ronda, esperando que ese cofre no este vacío, avanzando a la siguiente ronda. Si el jugador logra completar todas las rondas, se desplegará un mensaje informando cuál fue el premio total acumulado durante todas las rondas y un mensaje de felicitaciones. En este punto el juego habrá terminado y debe de desplegarse un menú o una opción para volver a intentarlo.
 
 # Ítems que se evaluarán
 * Orden y limpieza del código.
