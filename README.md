@@ -20,6 +20,7 @@ Por cada cofre que el jugador abra y no sea un cofre vacío, el premio en moneda
 * Declaración de métodos y variables con sus respectivos modificadores de acceso.
 * Despliegue de los elementos visuales en un Canvas y trabajo del minijuego en un entorno 2D.
 * Métodos de instanciado y limpiado de elementos.
+* Crear un sistema de particulas 2D eficiente para la animacion de explosion al abrir la caja seleccionada
 
 # Ítems que son un plus
 * Lograr que el minijuego sea un módulo instanciable (.prefab). Es decir, podríamos tener un menú en la escena que permita abrir Chain Chests y este ser instanciado cuando el jugador deseé iniciar la partida (Para evitar que la escena tenga el game object contenedor del juego siempre presente).
